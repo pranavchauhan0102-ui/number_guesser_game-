@@ -179,7 +179,7 @@ This project successfully demonstrates core Python programming concepts through 
 
 ## Repository Information
 - GitHub Repository: [Your Repository Link]
-- Project Submission Date: November 25, 2025
+- Project Submission Date: November 20, 2025
 
 ---
 **Note**: This project was created as part of the VITyarthi course assignment and follows all the guidelines provided in the course material.
