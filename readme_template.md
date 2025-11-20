@@ -4,7 +4,7 @@
 - **Course**: Introduction to Problem Solving & Programming
 - **Project Type**: Individual Project
 - **Programming Language**: Python 3.x
-- **Submission Date**: November 2025
+- **Submission Date**: November 20, 2025
 
 ## Problem Statement
 Students and beginners often need engaging ways to practice programming concepts like loops, conditionals, functions, and user input handling. Traditional learning can be boring and doesn't provide immediate feedback. This project creates an interactive number guessing game that makes learning Python fun while reinforcing core programming concepts.
@@ -178,7 +178,7 @@ This project successfully demonstrates core Python programming concepts through 
 - Email: pranav.bce11289@vitbhopal.ac.in
 
 ## Repository Information
-- GitHub Repository: [Your Repository Link]
+- GitHub Repository: https://github.com/pranavchauhan0102-ui/number_guesser_game-
 - Project Submission Date: November 20, 2025
 
 ---
